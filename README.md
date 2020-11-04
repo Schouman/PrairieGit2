@@ -23,9 +23,6 @@ Date:   Mon Nov 2 12:36:24 2020 +0100
 
 
 Exo6
-Sur l’actuel Repository public en local dénommé «PrairieGIT»
-Charger les nouveautés sur son répertoire local par rapport au repo GitHub
-Mettre à jour les nouveautés sur son répertoire local par rapport au repo GitHub
 
 J'ai modifié mon fichier texte first-push.txt dans mon dossier local.
 Puis j'ai exécuté les commandes pour que ma modification soit poussée sur mon Github
@@ -36,8 +33,6 @@ Puis j'ai exécuté les commandes pour que ma modification soit poussée sur mon
                                 
 
 Exo7
-Sur l’actuel Repository public en local dénommé «PrairieGIT»
-Modifier un fichier et voir les différences
 
 J'ai cette fois modifié mon fichier first-push.txt directement dans Github. 
 Pour visulaliser que ma modification a bien été prise en compte. 
